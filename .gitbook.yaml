@@ -1,4 +1,4 @@
-root: ./concrete-boolean
+root: ./docs
 
 structure:
     readme: README.md
